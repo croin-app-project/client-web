@@ -1,0 +1,11 @@
+.app-centent{
+  margin: 30px 60px;
+
+}
+
+@media screen and (max-width: 767px) {
+  .app-centent{
+    margin: 15px 30px;
+  
+  }
+}
